@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\lab41\DataManager\bin\Debug\netcoreapp3.1\DataManager.deps.json
+C:\Users\User\source\repos\lab41\DataManager\bin\Debug\netcoreapp3.1\DataManager.dll
+C:\Users\User\source\repos\lab41\DataManager\bin\Debug\netcoreapp3.1\DataManager.pdb
+C:\Users\User\source\repos\lab41\DataManager\obj\Debug\netcoreapp3.1\DataManager.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab41\DataManager\obj\Debug\netcoreapp3.1\DataManager.AssemblyInfo.cs
+C:\Users\User\source\repos\lab41\DataManager\obj\Debug\netcoreapp3.1\DataManager.dll
+C:\Users\User\source\repos\lab41\DataManager\obj\Debug\netcoreapp3.1\DataManager.pdb
+C:\Users\User\source\repos\lab41\DataManager\obj\Debug\netcoreapp3.1\DataManager.csprojAssemblyReference.cache

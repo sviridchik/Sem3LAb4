@@ -1,0 +1,9 @@
+﻿15.12.2020 09:06:47 file  was Compression of file C:\Users\User\source\repos\lab41\SourceDirectory\output.xml is comleted. Previous size: 276832  compressed size: 253952.
+15.12.2020 09:06:47 file C:\Users\User\source\repos\lab41\SourceDirectory\output.xml was created
+15.12.2020 09:06:47 file C:\Users\User\source\repos\lab41\SourceDirectory\output.xml was changed
+15.12.2020 09:06:47 file  was C:\Users\User\source\repos\lab41\SourceDirectory\output.gz was moved to C:\Users\User\source\repos\lab41\TargetDirectory\output.gz.
+15.12.2020 09:06:47 file  was File recovered: C:\Users\User\source\repos\lab41\TargetDirectory\output.xml
+15.12.2020 09:06:47 file  was C:\Users\User\source\repos\lab41\TargetDirectory\output.gz was moved to C:\Users\User\source\repos\lab41\TargetDirectoryArchieve/2020/12/15.12.2020/21/6/47/755\output.gz.
+15.12.2020 09:06:47 file C:\Users\User\source\repos\lab41\SourceDirectory\output.gz was created
+15.12.2020 09:06:47 file C:\Users\User\source\repos\lab41\SourceDirectory\output.gz was changed
+15.12.2020 09:06:47 file C:\Users\User\source\repos\lab41\SourceDirectory\output.gz was deleted
